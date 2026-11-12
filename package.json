@@ -1,0 +1,20 @@
+{
+  "name": "meus-guias",
+  "version": "1.0.0",
+  "description": "Repositório de conteúdo estruturado para o site de guias desacoplado",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build:index": "node scripts/build-index.mjs",
+    "test": "node scripts/validate.mjs && node scripts/build-index.mjs"
+  },
+  "keywords": [
+    "guias",
+    "diy",
+    "content-repository",
+    "markdown"
+  ],
+  "author": "",
+  "license": "MIT"
+}

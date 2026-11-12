@@ -1,0 +1,56 @@
+name: Validação e Indexação de Guias
+
+on:
+  push:
+    paths:
+      - 'guias/**'
+      - 'scripts/**'
+  pull_request:
+    paths:
+      - 'guias/**'
+      - 'scripts/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Validar conformidade com o CONTRATO.md
+        run: node scripts/validate.mjs
+
+      - name: Gerar index.json atualizado
+        run: node scripts/build-index.mjs
+
+      - name: Fazer commit do index.json atualizado
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain index.json)" ]; then
+            git add index.json
+            git commit -m "chore(index): atualizar index.json automaticamente [skip ci]"
+            git push
+            echo "Index atualizado e publicado no repositório."
+          else
+            echo "Nenhuma alteração detectada no index.json."
+          fi
+
+      - name: Purge de Cache do CDN (jsDelivr / opcional)
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          echo "Purging CDN cache for index.json if jsDelivr is used..."
+          # curl -s -X POST "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/index.json" || true
