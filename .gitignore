@@ -2,4 +2,12 @@ node_modules/
 .DS_Store
 Thumbs.db
 .scratch/
+.env
+.env.*
+*.env
+secrets/
+*.secret
+*.key
+*.pem
+credentials.*
 *.log
