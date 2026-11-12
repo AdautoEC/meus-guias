@@ -1,0 +1,79 @@
+---
+title: "Torre de Hidroponia Vertical em PVC"
+slug: "torre-de-hidroponia-vertical-pvc"
+summary: "Como construir uma torre de cultivo hidropônico vertical compacta com tubos de PVC, bomba submersa e reservatório gastando pouco."
+tags:
+  - hidroponia
+  - diy
+  - horta
+  - sustentabilidade
+  - jardinagem
+difficulty: "médio"
+time: "4h"
+cost: "R$ 320"
+cost_date: "2026-11"
+video:
+  id: "arNVaP5XNEg"
+  credit: "Chris Loh"
+  url: "https://www.youtube.com/watch?v=arNVaP5XNEg"
+updated: "2026-11-12"
+status: "publicado"
+---
+
+## Materiais
+- [ ] Tubo de PVC rígido esgoto ou predial de 100mm (4") *(pesquisado)* (1 barra de 2 metros)
+- [ ] Tubo interno de PVC soldável de 20mm (1/2") para coluna d'água (1 barra de 2 metros)
+- [ ] Balde plástico opaco com tampa reforçada de 20 litros *(pesquisado)* (1 unidade)
+- [ ] Bomba submersa de água 1200 a 2000 L/h com elevação mínima de 1.8m *(pesquisado)* (1 unidade)
+- [ ] Copos plásticos perfurados para hidroponia net pots de 2 polegadas (20 a 30 unidades)
+- [ ] Cap de PVC de 100mm para fechamento superior (1 unidade)
+- [ ] Adaptador com rosca e espigão de 1/2" para acoplar a bomba ao tubo interno (1 unidade)
+- [ ] Aspersor rotativo ou tampão furado de 20mm para distribuição de água no topo (1 unidade)
+- [ ] Substrato inerte tipo argila expandida ou espuma fenólica *(pesquisado)* (1 pacote)
+- [ ] Temporizador analógico ou digital de tomada *(pesquisado)* (1 unidade)
+
+## Ferramentas
+- [ ] Soprador térmico de 1500W a 2000W *(pesquisado)*
+- [ ] Serra tico-tico manual ou serra manual para PVC
+- [ ] Furadeira e broca serra-copo compatível com a largura da base do tubo
+- [ ] Molde rígido ou garrafa de vidro para conformação do bolso de plantio
+- [ ] Trena métrica e marcador permanente
+- [ ] Lixa para plástico grão 120 para rebarbas
+- [ ] Luvas térmicas de proteção contra calor
+
+## Passo a passo
+
+### 1. Dimensionamento e marcação dos bolsos no tubo principal {t=225}
+Corte o tubo de 100mm na altura desejada (cerca de 1,5m a 1,8m). Com o auxílio de uma fita métrica e gabarito, trace 3 ou 4 linhas verticais equidistantes ao redor da circunferência. Em cada coluna, marque linhas horizontais com espaçamento de 15cm a 20cm, alternando a altura entre as colunas adjacentes para que as raízes e folhas não disputem o mesmo espaço.
+
+### 2. Corte horizontal das janelas de inserção {t=310}
+Utilize a serra para fazer um corte horizontal limpo de aproximadamente 6cm a 8cm em cada marcação. Não corte além da metade da parede do tubo para preservar a integridade estrutural da torre.
+
+### 3. Aquecimento e moldagem dos bolsos com soprador térmico {t=390}
+Com a luva de proteção térmica, direcione o soprador térmico diretamente sobre a área acima do corte horizontal até o plástico PVC ficar maleável e flexível. Com o auxílio de um molde cilíndrico ou garrafa, empurre a parte superior para dentro e puxe a borda inferior para fora formando uma bolsa inclinada a 45 graus que acomodará com firmeza o copinho net pot. Aguarde 30 segundos esfriar para fixar a forma.
+
+### 4. Montagem da tubulação interna de distribuição de água {t=615}
+Corte o tubo de 20mm (1/2") alguns centímetros menor que a altura total da torre. No topo, instale o cap furado ou difusor para espalhar a água pelas paredes internas. Conecte a extremidade inferior diretamente na saída da bomba submersa utilizando a mangueira flexível ou luva adaptadora.
+
+### 5. Preparação da tampa e do balde reservatório {t=810}
+Faça uma abertura central na tampa do balde de 20 litros utilizando a serra-copo ou estilete reforçado para encaixar a base da torre de PVC com precisão. Faça também uma pequena abertura auxiliar na tampa para passagem do cabo elétrico da bomba e reabastecimento de água e nutrientes.
+
+### 6. Teste de fluxo, ciclagem e acomodação das mudas {t=960}
+Preencha o balde com 15 a 18 litros de água e adicione a solução nutritiva hidropônica concentrada *(pesquisado)*. Conecte a bomba ao temporizador de tomada configurado para ciclos de 15 minutos ligado e 15 minutos desligado. Posicione as mudas de hortaliças nos copos perfurados apoiadas em argila expandida e insira-as nas bolsas da torre.
+
+## Variações
+- **Torre suspensa sem balde:** Pode ser instalada conectada a um sistema central de calhas coletoras de PVC retornando para uma caixa d'água maior.
+- **Iluminação indoor para interiores:** É possível fixar réguas de LED grow light *(pesquisado)* verticais ao redor da torre para cultivo dentro de apartamentos sem luz solar direta.
+
+## Reciclagem e economia
+- O reservatório pode ser feito reaproveitando baldes alimentícios de gordura vegetal ou azeitonas (geralmente descartados por padarias e restaurantes), bastando higienizá-los bem.
+- Pedaços de mangueira de jardim velha podem ser utilizados para conectar a bomba à coluna central de irrigação.
+
+## Dicas
+- Mantenha sempre o balde reservatório em local protegido do sol direto para evitar o superaquecimento da solução e a proliferação de algas.
+- Monitore a condutividade elétrica (EC) e o pH da água entre 5.8 e 6.5 *(pesquisado)* semanalmente para garantir o desenvolvimento saudável de alfaces, rúculas, morangos e ervas aromáticas.
+
+## Fontes
+- Vídeo original: [Chris Loh - DIY Hydroponics Garden Tower Build (YouTube)](https://www.youtube.com/watch?v=arNVaP5XNEg)
+- Manual de formulação de nutrientes para hidroponia NFT e vertical *(pesquisado)*
+- Tabela de compatibilidade de tubos e conexões de PVC NBR 5648 *(pesquisado)*
