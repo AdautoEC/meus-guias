@@ -58,10 +58,10 @@ function parseSimpleYamlFrontmatter(rawContent) {
   return { meta: data, body: bodyText };
 }
 
-function extractMaterials(body) {
-  const materialsMatch = body.match(/##\s+Materiais\r?\n([\s\S]*?)(?=\r?\n##\s+|$)/i);
-  if (!materialsMatch) return [];
-  const lines = materialsMatch[1].split(/\r?\n/);
+function extractSectionItems(body, sectionName) {
+  const match = body.match(new RegExp(`##\\s+${sectionName}\\r?\\n([\\s\\S]*?)(?=\\r?\\n##\\s+|$)`, 'i'));
+  if (!match) return [];
+  const lines = match[1].split(/\r?\n/);
   const items = [];
   for (const line of lines) {
     const trimmed = line.trim();
@@ -74,6 +74,14 @@ function extractMaterials(body) {
     }
   }
   return items;
+}
+
+function extractMaterials(body) {
+  return extractSectionItems(body, 'Materiais');
+}
+
+function extractTools(body) {
+  return extractSectionItems(body, 'Ferramentas');
 }
 
 function stripMarkdown(md) {
@@ -115,6 +123,7 @@ function buildIndex() {
     }
 
     const materials = extractMaterials(body);
+    const tools = extractTools(body);
     const plainText = stripMarkdown(body);
 
     indexList.push({
@@ -130,6 +139,7 @@ function buildIndex() {
       video: meta.video || {},
       updated: meta.updated,
       materials: materials,
+      tools: tools,
       text: plainText
     });
   }
