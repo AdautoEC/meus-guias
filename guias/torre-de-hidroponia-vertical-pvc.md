@@ -21,19 +21,19 @@ status: "publicado"
 ---
 
 ## Materiais
-- [ ] Tubo de PVC rígido esgoto ou predial de 100mm (4") *(pesquisado)* (1 barra de 2 metros)
+- [ ] Tubo de PVC rígido esgoto ou predial de 100mm (4") (1 barra de 2 metros)
 - [ ] Tubo interno de PVC soldável de 20mm (1/2") para coluna d'água (1 barra de 2 metros)
-- [ ] Balde plástico opaco com tampa reforçada de 20 litros *(pesquisado)* (1 unidade)
-- [ ] Bomba submersa de água 1200 a 2000 L/h com elevação mínima de 1.8m *(pesquisado)* (1 unidade)
+- [ ] Balde plástico opaco com tampa reforçada de 20 litros (1 unidade)
+- [ ] Bomba submersa de água 1200 a 2000 L/h com elevação mínima de 1.8m (1 unidade)
 - [ ] Copos plásticos perfurados para hidroponia net pots de 2 polegadas (20 a 30 unidades)
 - [ ] Cap de PVC de 100mm para fechamento superior (1 unidade)
 - [ ] Adaptador com rosca e espigão de 1/2" para acoplar a bomba ao tubo interno (1 unidade)
 - [ ] Aspersor rotativo ou tampão furado de 20mm para distribuição de água no topo (1 unidade)
-- [ ] Substrato inerte tipo argila expandida ou espuma fenólica *(pesquisado)* (1 pacote)
-- [ ] Temporizador analógico ou digital de tomada *(pesquisado)* (1 unidade)
+- [ ] Substrato inerte tipo argila expandida ou espuma fenólica (1 pacote)
+- [ ] Temporizador analógico ou digital de tomada (1 unidade)
 
 ## Ferramentas
-- [ ] Soprador térmico de 1500W a 2000W *(pesquisado)*
+- [ ] Soprador térmico de 1500W a 2000W
 - [ ] Serra tico-tico manual ou serra manual para PVC
 - [ ] Furadeira e broca serra-copo compatível com a largura da base do tubo
 - [ ] Molde rígido ou garrafa de vidro para conformação do bolso de plantio
@@ -59,11 +59,11 @@ Corte o tubo de 20mm (1/2") alguns centímetros menor que a altura total da torr
 Faça uma abertura central na tampa do balde de 20 litros utilizando a serra-copo ou estilete reforçado para encaixar a base da torre de PVC com precisão. Faça também uma pequena abertura auxiliar na tampa para passagem do cabo elétrico da bomba e reabastecimento de água e nutrientes.
 
 ### 6. Teste de fluxo, ciclagem e acomodação das mudas {t=960}
-Preencha o balde com 15 a 18 litros de água e adicione a solução nutritiva hidropônica concentrada *(pesquisado)*. Conecte a bomba ao temporizador de tomada configurado para ciclos de 15 minutos ligado e 15 minutos desligado. Posicione as mudas de hortaliças nos copos perfurados apoiadas em argila expandida e insira-as nas bolsas da torre.
+Preencha o balde com 15 a 18 litros de água e adicione a solução nutritiva hidropônica concentrada. Conecte a bomba ao temporizador de tomada configurado para ciclos de 15 minutos ligado e 15 minutos desligado. Posicione as mudas de hortaliças nos copos perfurados apoiadas em argila expandida e insira-as nas bolsas da torre.
 
 ## Variações
 - **Torre suspensa sem balde:** Pode ser instalada conectada a um sistema central de calhas coletoras de PVC retornando para uma caixa d'água maior.
-- **Iluminação indoor para interiores:** É possível fixar réguas de LED grow light *(pesquisado)* verticais ao redor da torre para cultivo dentro de apartamentos sem luz solar direta.
+- **Iluminação indoor para interiores:** É possível fixar réguas de LED grow light verticais ao redor da torre para cultivo dentro de apartamentos sem luz solar direta.
 
 ## Reciclagem e economia
 - O reservatório pode ser feito reaproveitando baldes alimentícios de gordura vegetal ou azeitonas (geralmente descartados por padarias e restaurantes), bastando higienizá-los bem.
@@ -71,9 +71,9 @@ Preencha o balde com 15 a 18 litros de água e adicione a solução nutritiva hi
 
 ## Dicas
 - Mantenha sempre o balde reservatório em local protegido do sol direto para evitar o superaquecimento da solução e a proliferação de algas.
-- Monitore a condutividade elétrica (EC) e o pH da água entre 5.8 e 6.5 *(pesquisado)* semanalmente para garantir o desenvolvimento saudável de alfaces, rúculas, morangos e ervas aromáticas.
+- Monitore a condutividade elétrica (EC) e o pH da água entre 5.8 e 6.5 semanalmente para garantir o desenvolvimento saudável de alfaces, rúculas, morangos e ervas aromáticas.
 
 ## Fontes
 - Vídeo original: [Chris Loh - DIY Hydroponics Garden Tower Build (YouTube)](https://www.youtube.com/watch?v=arNVaP5XNEg)
-- Manual de formulação de nutrientes para hidroponia NFT e vertical *(pesquisado)*
-- Tabela de compatibilidade de tubos e conexões de PVC NBR 5648 *(pesquisado)*
+- Manual de formulação de nutrientes para hidroponia NFT e vertical
+- Tabela de compatibilidade de tubos e conexões de PVC NBR 5648
